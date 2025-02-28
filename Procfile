@@ -1,0 +1,1 @@
+web: gunicorn app:line_slot_bot.py
